@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVP", "RSVP\RSVP.csproj", "{1C1FEC79-2EF0-421A-A897-ADD98CCF4D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSVP.Tests", "RSVP.Tests\RSVP.Tests.csproj", "{72D3BE2B-5DC3-4101-94EE-6016C0003B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1FEC79-2EF0-421A-A897-ADD98CCF4D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1FEC79-2EF0-421A-A897-ADD98CCF4D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1FEC79-2EF0-421A-A897-ADD98CCF4D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1FEC79-2EF0-421A-A897-ADD98CCF4D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D3BE2B-5DC3-4101-94EE-6016C0003B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D3BE2B-5DC3-4101-94EE-6016C0003B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D3BE2B-5DC3-4101-94EE-6016C0003B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D3BE2B-5DC3-4101-94EE-6016C0003B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
